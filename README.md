@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silent-room-empty-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Silent Room Empty Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-room-empty-bed/) |
+| **Get License** | [Official Music Licensing for Silent Room Empty Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-room-empty-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `58848d146bc1e345367c4f6624998a5ee052ed36ecaf7fdb7f06d291abc87f63` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
