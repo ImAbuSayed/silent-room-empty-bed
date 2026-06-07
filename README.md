@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silent-room-empty-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Silent Room Empty Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-room-empty-bed/) |
+| **Get License** | [Music Rights & Licensing for Silent Room Empty Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silent-room-empty-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the wall, the night is fading slow
+> I still can feel your magic where the amber embers glow
+> You left a trace of summer rain upon the empty bed
+> Now every little whisper is echoing in my head
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
